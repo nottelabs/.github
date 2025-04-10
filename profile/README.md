@@ -6,6 +6,8 @@
   <b><a href="https://console.notte.cc">Console</a></b>
   •
   <a href="https://docs.notte.cc">Docs</a>
+  •
+  <a href="https://twitter.com/nottecore">Twitter/X</a>
   </h4>
 
 ## Why Notte?
@@ -23,12 +25,3 @@ Notte is the fastest, most reliable framework for Browser Using Agents. We provi
 - [Documentation](https://docs.notte.cc)
 - [API Reference](https://docs.notte.cc/oapi-reference/health-check)
 - Cookbook Coming Soon.
-
-## Join Community
-
-<div align='center'>
-<a href="https://twitter.com/nottecore" target="_blank">
-<img src="https://img.shields.io/badge/-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/></a>
-<a href="https://github.com/nottelabs" target="_blank">
-<img src="https://img.shields.io/badge/-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a>
-</div>
