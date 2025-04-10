@@ -12,7 +12,7 @@
 
 ## Why Notte?
 
-Notte is the fastest, most reliable framework for Browser Using Agents. We provide an open-core browser infrastructure with a perception layer turning webpages into an action API in text—making it simple for LLMs to read, understand, and act on sites. [Our tech outperforms others](https://github.com/nottelabs/open-operator-evals) in speed, cost, and task success, letting you build smaller, faster, and smarter agents—ready for production.
+Notte is the fastest, most reliable framework for Browser Using Agents. We provide an open-core browser infrastructure with a perception layer turning webpages into an action API in text—making it simple for LLMs to read, understand, and act on sites. [Our tech wins](https://github.com/nottelabs/open-operator-evals) on speed, cost, and task success, letting you build smaller, faster, and smarter agents—ready for production.
 
 - ⚡️ Outperforms other browser using agents in all benchmarks
 - 🧠 Cuts LLM cognitive load with our perception layer
