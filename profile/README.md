@@ -1,4 +1,4 @@
-<h4 align="center">
+<h4 align="left">
   <a href="https://notte.cc">Website</a>
   •
   <b><a href="https://console.notte.cc">Console</a></b>
